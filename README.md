@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cuong</h1>
+<h1 align="center">Hi there 👋, I'm Cuong</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mincun310" alt="mincun310" /></a> </p>
